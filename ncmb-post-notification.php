@@ -1,11 +1,11 @@
 <?php
 /*
-	Plugin Name: Post Notification with NIFTY Cloud mobile backend
-	Plugin URI: http://mb.cloud.nifty.com/
-	Description: 記事が公開されると、ニフティクラウドmobile backendを通じてプッシュ通知を配信する
+	Plugin Name: Post Notification with NIFCloud mobile backend
+	Plugin URI: https://mbaas.nifcloud.com/
+	Description: 記事が公開されると、ニフクラ mobile backendを通じてプッシュ通知を配信する
 	Author: nd.yuya
-	Author URI: http://www.nifty.co.jp/
-	Version: 0.0.2
+	Author URI: https://mbaas.nifcloud.com/
+	Version: 0.0.3
 	License: Apache License, Version 2.0
 */
 

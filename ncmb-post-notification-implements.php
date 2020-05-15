@@ -1,6 +1,6 @@
 <?php
 /*
-        Post Notification by NIFTY Cloud mobile backend  v0.0.1
+        Post Notification by NIFCloud mobile backend  v0.0.1
 */
 /*
         Copyright 2015 nd.yuya
@@ -32,7 +32,7 @@ class NCMBPostNotificationImplements {
 				'immediateDeliveryFlag' => true,
 				'target' => array(),
 				'title' => mb_substr($post->post_title, 0, 20),
-				'message' => mb_substr($post->post_content, 0, 50),
+				'message' => mb_substr(strip_tags($post->post_content), 0, 50),
 				'deliveryExpirationTime' => '10 day',
 			);
 

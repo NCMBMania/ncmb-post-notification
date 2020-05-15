@@ -1,6 +1,6 @@
 <?php
 /*
-        NIFTY Cloud mobile backend Client v0.0.1
+        NIFCloud mobile backend Client v0.0.1
 */
 /*
         Copyright 2015 nd.yuya
@@ -20,7 +20,7 @@
 
 class NCMBClient {
 	// 定数
-	const API_ENDPOINT = 'mb.api.cloud.nifty.com';
+	const API_ENDPOINT = 'mbaas.api.nifcloud.com';
 	const API_VERSION  = '2013-09-01';
 
 	// 変数  

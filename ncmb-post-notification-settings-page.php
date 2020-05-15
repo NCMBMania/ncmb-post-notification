@@ -1,6 +1,6 @@
 <?php
 /*
-	Post Notification by NIFTY Cloud mobile backend  v0.0.1
+	Post Notification by NIFCloud mobile backend  v0.0.1
 */
 /*
         Copyright 2015 nd.yuya
